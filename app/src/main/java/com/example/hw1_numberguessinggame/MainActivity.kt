@@ -9,6 +9,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
+    //some random comment
     var attempts = 0
     var randomNumber = Random().nextInt(100)
     var wonGame = 0
